@@ -5,4 +5,4 @@ For the final portfolio project in Codecademy's Data Scientist career path, we w
 
 
 
-(*I'd also like to thank the Kaggle community for being a wealth of knowledge. I learned so much from everyone.) 
+PS: I'd like to thank the Kaggle community for being a wealth of knowledge, especially those who took the time to explain the thought processes behind their codes. I learned so much from everyone. 
